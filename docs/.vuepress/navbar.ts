@@ -17,11 +17,6 @@ export default navbar([
     link: "/story/", 
   },
   { 
-    text: "骰娘说明书", 
-    icon: "creative", 
-    link: "/", 
-  },
-  { 
     text: "数据库", 
     icon: "creative", 
     link: "/", 
