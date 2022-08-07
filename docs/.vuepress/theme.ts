@@ -2,7 +2,7 @@ import { hopeTheme } from "vuepress-theme-hope";
 import navbar from "./navbar";
 
 export default hopeTheme({
-  hostname: "https://sena-nana.github.io",
+  hostname: "https://sena-nana.github.io/mh1/",
   author: {
     name: "星奈 Sena",
     url: "https://space.bilibili.com/82717585",
