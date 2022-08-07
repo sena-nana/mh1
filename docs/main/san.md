@@ -1,3 +1,4 @@
+---
 title: 理智
 icon: markdown
 order: 6

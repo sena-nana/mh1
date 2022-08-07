@@ -1,3 +1,4 @@
+---
 title: 战斗
 icon: markdown
 order: 5
