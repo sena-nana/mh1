@@ -9,7 +9,7 @@ export default navbar([
   { 
     text: "扩展规则", 
     icon: "creative", 
-    link: "/", 
+    link: "/dlc/", 
   },
   { 
     text: "模组", 
@@ -19,7 +19,7 @@ export default navbar([
   { 
     text: "数据库", 
     icon: "creative", 
-    link: "/", 
+    link: "/database/", 
   },
   { 
     text: "二版规则", 

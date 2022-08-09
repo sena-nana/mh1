@@ -1,0 +1,4 @@
+<template><div><h1 id="计算机破解" tabindex="-1"><a class="header-anchor" href="#计算机破解" aria-hidden="true">#</a> 计算机破解</h1>
+<p>初始技能值: 5
+说明: 允许角色用各种不同的计算机语言进行编程、恢复、或者分析隐藏的数据、解除被加了保护的系统、探索一个复杂的网络、或者发现别人的骇入、后门程序、病毒。</p>
+</div></template>

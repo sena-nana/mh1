@@ -1,0 +1,14 @@
+export const data = JSON.parse("{\"key\":\"v-c001ce78\",\"path\":\"/main/battle.html\",\"title\":\"战斗\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"战斗\",\"icon\":\"markdown\",\"order\":5,\"tag\":[\"Markdown\"],\"summary\":\"玩家与玩家之间的战斗 当玩家魔法少女之间产生冲突时，玩家之间可主动提出或者由kp宣言双方对抗的开始，kp依照情况以及玩家讨论选择一下三种形式进行对抗： 切磋 对抗双方开始战斗，将一方某一人生命削减到三分之一即结束，随后生命恢复切磋开始前的生命值，而后失败方失去1d2生命 决斗 对抗双方开始战斗，某一方全员生命归零即结束 技艺比拼 对抗双方选择战斗/生活技能里\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://sena-nana.github.io/mh1/mh1/main/battle.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"魔法崩坏\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"战斗\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"article:tag\",\"content\":\"Markdown\"}]]},\"excerpt\":\"\",\"headers\":[{\"level\":3,\"title\":\"切磋\",\"slug\":\"切磋\",\"children\":[]},{\"level\":3,\"title\":\"决斗\",\"slug\":\"决斗\",\"children\":[]},{\"level\":3,\"title\":\"技艺比拼\",\"slug\":\"技艺比拼\",\"children\":[]},{\"level\":2,\"title\":\"先攻\",\"slug\":\"先攻\",\"children\":[]},{\"level\":2,\"title\":\"你的回合\",\"slug\":\"你的回合\",\"children\":[]},{\"level\":2,\"title\":\"应急反应\",\"slug\":\"应急反应\",\"children\":[{\"level\":3,\"title\":\"保护同伴\",\"slug\":\"保护同伴\",\"children\":[]}]},{\"level\":2,\"title\":\"DP系统\",\"slug\":\"dp系统\",\"children\":[]},{\"level\":2,\"title\":\"消耗DP的行动\",\"slug\":\"消耗dp的行动\",\"children\":[{\"level\":3,\"title\":\"攻击\",\"slug\":\"攻击\",\"children\":[]},{\"level\":3,\"title\":\"使用能力\",\"slug\":\"使用能力\",\"children\":[]},{\"level\":3,\"title\":\"移动\",\"slug\":\"移动\",\"children\":[]},{\"level\":3,\"title\":\"使用技能\",\"slug\":\"使用技能\",\"children\":[]},{\"level\":3,\"title\":\"躲藏\",\"slug\":\"躲藏\",\"children\":[]}]},{\"level\":2,\"title\":\"回合结束的行动\",\"slug\":\"回合结束的行动\",\"children\":[{\"level\":3,\"title\":\"注意回避\",\"slug\":\"注意回避\",\"children\":[]},{\"level\":3,\"title\":\"注意格挡\",\"slug\":\"注意格挡\",\"children\":[]},{\"level\":3,\"title\":\"预备行动\",\"slug\":\"预备行动\",\"children\":[]}]},{\"level\":2,\"title\":\"被动行动\",\"slug\":\"被动行动\",\"children\":[]},{\"level\":2,\"title\":\"伤害类型\",\"slug\":\"伤害类型\",\"children\":[{\"level\":3,\"title\":\"物理伤害\",\"slug\":\"物理伤害\",\"children\":[]},{\"level\":3,\"title\":\"魔法伤害\",\"slug\":\"魔法伤害\",\"children\":[]}]},{\"level\":2,\"title\":\"受伤\",\"slug\":\"受伤\",\"children\":[{\"level\":3,\"title\":\"伤害计算公式\",\"slug\":\"伤害计算公式\",\"children\":[]},{\"level\":3,\"title\":\"困难成功\",\"slug\":\"困难成功\",\"children\":[]}]}],\"readingTime\":{\"minutes\":12.44,\"words\":3733},\"filePathRelative\":\"main/battle.md\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

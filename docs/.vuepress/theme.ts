@@ -23,6 +23,8 @@ export default hopeTheme({
   sidebar: {
     "/main/":"structure",
     "/story/":"structure",
+    "/database/":"structure",
+    "/dlc/":"structure",
   },
   footer: "后面没有了哦~",
   displayFooter: true,

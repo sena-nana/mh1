@@ -1,0 +1,4 @@
+<template><div><h1 id="拖影轨迹·聚" tabindex="-1"><a class="header-anchor" href="#拖影轨迹·聚" aria-hidden="true">#</a> 拖影轨迹·聚</h1>
+<p>分类: 主动, 近战
+效果: 消耗2MP，挥舞武器后会短时间内留下丝带状的轨迹，若自身不移动，这些轨迹可以在一回合内围绕在自身周围，抵挡DAM/4（向上取整）的伤害，该计算在格挡和反击之前进行</p>
+</div></template>

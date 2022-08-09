@@ -1,9 +1,9 @@
-import { useStyleTag } from "D:/PROJECT/magiahonkai/node_modules/.pnpm/registry.npmmirror.com+vuepress-plugin-components@2.0.0-beta.85/node_modules/vuepress-plugin-components/lib/client/composables";
+import { useStyleTag } from "D:/PROJECT/magiahonkai1/node_modules/.pnpm/registry.npmmirror.com+vuepress-plugin-components@2.0.0-beta.88/node_modules/vuepress-plugin-components/lib/client/composables";
 import { h } from "vue";
 import { defineClientConfig } from "@vuepress/client";
-import Badge from "D:/PROJECT/magiahonkai/node_modules/.pnpm/registry.npmmirror.com+vuepress-plugin-components@2.0.0-beta.85/node_modules/vuepress-plugin-components/lib/client/components/Badge";
-import FontIcon from "D:/PROJECT/magiahonkai/node_modules/.pnpm/registry.npmmirror.com+vuepress-plugin-components@2.0.0-beta.85/node_modules/vuepress-plugin-components/lib/client/components/FontIcon";
-import BackToTop from "D:/PROJECT/magiahonkai/node_modules/.pnpm/registry.npmmirror.com+vuepress-plugin-components@2.0.0-beta.85/node_modules/vuepress-plugin-components/lib/client/components/BackToTop";
+import Badge from "D:/PROJECT/magiahonkai1/node_modules/.pnpm/registry.npmmirror.com+vuepress-plugin-components@2.0.0-beta.88/node_modules/vuepress-plugin-components/lib/client/components/Badge";
+import FontIcon from "D:/PROJECT/magiahonkai1/node_modules/.pnpm/registry.npmmirror.com+vuepress-plugin-components@2.0.0-beta.88/node_modules/vuepress-plugin-components/lib/client/components/FontIcon";
+import BackToTop from "D:/PROJECT/magiahonkai1/node_modules/.pnpm/registry.npmmirror.com+vuepress-plugin-components@2.0.0-beta.88/node_modules/vuepress-plugin-components/lib/client/components/BackToTop";
 
 
 export default defineClientConfig({
